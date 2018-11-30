@@ -4,4 +4,13 @@ h1 {
 #welcome_message {
   padding: 20px; }
 
+div {
+  font-size: 20px;
+  text-align: center; }
+  div p {
+    color: violet; }
+  div ul {
+    color: green;
+    font-size: 24px; }
+
 /*# sourceMappingURL=index.css.map */
