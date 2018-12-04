@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,cAAe;EACb,MAAM,EAAE,SAAS;EACjB,OAAO,EAAE,KAAK;EACd,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,KAAK,EAAE,GAAG;EACV,OAAO,EAAE,IAAI",
+"sources": ["../SASS/hobbies.scss"],
+"names": [],
+"file": "hobbies.css"
+}

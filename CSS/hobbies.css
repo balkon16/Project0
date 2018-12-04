@@ -1,0 +1,9 @@
+#hobbies_photo {
+  filter: blur(3px);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding: 2rem; }
+
+/*# sourceMappingURL=hobbies.css.map */
