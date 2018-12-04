@@ -3,7 +3,7 @@
 ### Course: Web Programming with Python and JavaScript
 
 <br>
-The following README file presents minumum requirements for the project.<br>
+The following README file presents minumum requirements for the project.<br><br>
 
 1. At least one list<br>
 
