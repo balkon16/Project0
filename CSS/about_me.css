@@ -1,3 +1,16 @@
+.table_general {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto; }
 
+th, td {
+  padding: 1rem; }
+
+.important_row, tr {
+  font-size: 22px;
+  font-family: monospace; }
+
+.important_row {
+  background-color: red; }
 
 /*# sourceMappingURL=about_me.css.map */

@@ -1,0 +1,19 @@
+.table_general {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th, td {
+  padding: 1rem;
+}
+
+%row, tr {
+  font-size: 22px;
+  font-family: monospace;
+}
+
+.important_row {
+  @extend %row;
+  background-color: red;
+}
