@@ -5,5 +5,12 @@
   margin-right: auto;
   width: 40%;
   padding: 2rem; }
+  @media screen and (max-width: 600px) {
+    #hobbies_photo {
+      width: 90%; } }
+  @media screen and (min-width: 1200px) {
+    #hobbies_photo {
+      width: 50%;
+      padding: 4rem; } }
 
 /*# sourceMappingURL=hobbies.css.map */
